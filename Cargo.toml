@@ -1,5 +1,5 @@
 [package]
-name = "rust-mux"
+name = "rust_mux"
 version = "0.1.0"
 authors = ["Nino Majder <nino.majder@gmail.com>"]
 edition = "2018"
